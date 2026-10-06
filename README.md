@@ -92,8 +92,8 @@ And what does it mean for the future of computing?**
 ## Get in Touch 📬
 
 - 📺 **YouTube:** [SiliconShortage]([your_youtube_link](https://www.youtube.com/@SiliconShortage))
-- 📧 **Email:** [Your Email](mailto:bekaorda@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn](your_linkedin_profile_link)
+- 📧 **Email:** [bekaorda@gmail.com](mailto:bekaorda@gmail.com)
+- 💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/beka-orda-6a8872441)
 
 ---
 
